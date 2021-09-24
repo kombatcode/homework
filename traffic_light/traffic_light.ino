@@ -1,3 +1,5 @@
+// Anton Sorokin 8A
+
 #define GREEN 0
 #define YELLOW 1
 #define RED 2
